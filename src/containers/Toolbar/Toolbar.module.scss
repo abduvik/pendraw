@@ -1,0 +1,14 @@
+.ToolbarWraper {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    bottom: 20px;
+}
+
+.Toolbar {
+    box-shadow: 0px 0px 3px 1px #aaa;
+    border-radius: 25px;
+    padding: 5px;
+    margin: auto;
+    height: 40px;
+}

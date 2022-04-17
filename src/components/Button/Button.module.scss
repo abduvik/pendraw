@@ -1,0 +1,13 @@
+.Button {
+    display: block;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    border-radius: 50%;
+    height: 100%;
+    padding: 10px;
+
+    &:hover {
+        background: #EEE;
+    }
+}
